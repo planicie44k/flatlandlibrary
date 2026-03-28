@@ -14,7 +14,7 @@
     }
 
     .container {
-      max-width: 700px;
+      max-width: 800px;
       margin: auto;
       background: #fff8e7;
       padding: 30px;
@@ -24,7 +24,7 @@
     }
 
     h1 {
-      margin-bottom: 20px;
+      margin-bottom: 25px;
     }
 
     ul {
@@ -53,22 +53,22 @@
 <div class="container">
   <h1>📚 Biblioteca</h1>
 
-<ul>
-  <li><a href="livro1.html">200 Provas Que A Terra Não É Um Globo</a></li>
-  <li><a href="livro2.html">A Maior Conspiração Da História</a></li>
-<li><a href="livro3.html">A Terra Plana - John Edward Quinlan</a></li>
-<li><a href="livro4.html">Eclipse Na Lua</a></li>
-<li><a href="livro5.html">Plano Terrestre - A Verdadeira Figura da Terra</a></li>
-<li><a href="livro6.html">Carta e Bússola, Sextante e Relógio de Sol</a></li>
-<li><a href="livro7.html">Cosmogonia Zetética - Samuel B</a></li>
-<li><a href="livro8.html">Rabino Ari - Judeu Sem Sinagoga</a></li>
-<li><a href="livro9.html">Céu e Terra - Gabrielle Henriet</a></li>
-<li><a href="livro10.html">Manual de Sobrevivência Urbana</a></li>
-<li><a href="livro11.html">Encontrando A Terra Plana Na Bíblia</a></li>
-<li><a href="livro12.html">A Terra Plana - Eric Dubay</a></li>
-<li><a href="livro13.html">Tratado Antártico Oficial</a></li>
-<li><a href="livro14.html">Terra Plana - Guy S. Stanton III</a></li>
-</ul>
+  <ul>
+    <li><a href="livro1.html">200 Provas Que A Terra Não É Um Globo</a></li>
+    <li><a href="livro2.html">A Maior Conspiração Da História</a></li>
+    <li><a href="livro3.html">A Terra Plana - John Edward Quinlan</a></li>
+    <li><a href="livro4.html">Eclipse Na Lua</a></li>
+    <li><a href="livro5.html">Plano Terrestre - A Verdadeira Figura da Terra</a></li>
+    <li><a href="livro6.html">Carta e Bússola, Sextante e Relógio de Sol</a></li>
+    <li><a href="livro7.html">Cosmogonia Zetética - Samuel B</a></li>
+    <li><a href="livro8.html">Rabino Ari - Judeu Sem Sinagoga</a></li>
+    <li><a href="livro9.html">Céu e Terra - Gabrielle Henriet</a></li>
+    <li><a href="livro10.html">Manual de Sobrevivência Urbana</a></li>
+    <li><a href="livro11.html">Encontrando A Terra Plana Na Bíblia</a></li>
+    <li><a href="livro12.html">A Terra Plana - Eric Dubay</a></li>
+    <li><a href="livro13.html">Tratado Antártico Oficial</a></li>
+    <li><a href="livro14.html">Terra Plana - Guy S. Stanton III</a></li>
+  </ul>
 </div>
 
 </body>
